@@ -1,4 +1,4 @@
-# IA
+# INTELIGÊNCIA ARTIFICIAL
 A classe "Busca", "buscaEmProfundidade" e "No" correspondem ao algoritmo busca em profundidade. 
 
 A classe "BuscaEmLargura" faz parte do algoritmo busca em largura.
